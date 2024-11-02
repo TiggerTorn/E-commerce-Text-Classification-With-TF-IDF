@@ -52,6 +52,9 @@ This project successfully demonstrates the potential of using TF-IDF combined wi
 
 ## References
 [1] A. Krishnan and A. Amarthaluri, “Large Scale Product Categorization using Structured and Unstructured Attributes,” 2019, [Online]. Available: https://ar5iv.labs.arxiv.org/html/1903.04254
+
 [2] .H. Jahanshahi, O. Ozyegen, M. Cevik, B. Bulut, D. Yigit, and F. Gonen, “Text Classification for Predicting Multi-level Product Categories,” 2022, [Online]. Available: https://ar5iv.labs.arxiv.org/html/2109.01084
+
 [3] S. Ghosh, “E-commerce Text Classification (TF-IDF + Word2Vec),” 2023, [Online]. Available: https://www.kaggle.com/code/sugataghosh/e-commerce-text-classification-tf-idf-word2vec#Word2Vec-Model
+
 [4] N. Sidelnikov, “Machine Learning in eCommerce Product Categorization,” 2020, [Online]. Available: https://virtocommerce.com/blog/ecommerce-product-categorization
